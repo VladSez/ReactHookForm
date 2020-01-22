@@ -1,2 +1,0 @@
-# ReactHookForm
-Created with CodeSandbox
